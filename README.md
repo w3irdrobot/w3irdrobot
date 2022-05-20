@@ -1,4 +1,4 @@
-Hi 👋 My name is Alex Sears
+Hi 👋 My name is w3irdrobot
 ===========================
 
 Software Engineer and Bitcoin Maxi
@@ -6,7 +6,7 @@ Software Engineer and Bitcoin Maxi
 
 *   🌍  I'm based in Ohio
 *   🖥️  See my portfolio at [Website](http://alexsears.com)
-*   ✉️  You can contact me at [me@alexsears.com](mailto:me@alexsears.com)
+*   ✉️  You can contact me at [me@alexsears.com](mailto:w3irdrobot@protonmail.com)
 *   🚀  I'm currently working on [Voltage](http://voltage.cloud)
 *   🧠  I'm learning Bitcoin and Lightning
 *   🤝  I'm open to collaborating on Bitcoin and Lightning projects in Rust or Golang
