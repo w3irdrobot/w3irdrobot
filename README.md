@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **nostr and lightning**
 
-- 📝 I regularly write articles on [https://w3irdrobot.codes](https://w3irdrobot.codes)
+- 📝 I regularly write articles on [https://blog.w3ird.tech](https://blog.w3ird.tech)
 
 - 📫 How to reach me **dro@w3ird.tech**
 
