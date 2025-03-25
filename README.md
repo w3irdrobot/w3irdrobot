@@ -33,8 +33,7 @@
 </p>
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 2022-00-29: [deploying a nostr relay](https://w3ird.tech/posts/deploying-a-nostr-relay/)- 2022-13-20: [goodbye, proton &lpar;the great migration&rpar;](https://w3ird.tech/posts/goodbye-proton-the-great-migration/)- 2022-43-12: [Bisq API Rust Project Setup](https://w3ird.tech/posts/bisq-api-rust-project-setup/)- 2019-18-19: [Fun with Concurrency in Golang](https://w3ird.tech/posts/fun-with-concurrency-in-golang/)- 2019-11-06: [Add Date from File Name to Frontmatter](https://w3ird.tech/posts/add-date-from-file-name-to-frontmatter/)<!-- BLOG-POST-LIST:END -->
 
 *Read more at [w3ird.tech](https://w3ird.tech)*
 

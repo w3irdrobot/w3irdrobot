@@ -11,13 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://w3ird.tech/index.xml"
           max_post_count: 5
-          template: "- $date: [$title]($url)"
+          template: '\n- $date: [$title]($url)'
           date_format: "yyyy-MM-dd"
           committer_email: "rob@w3ird.tech"
           committer_username: "w3irdrobot"
