@@ -17,7 +17,7 @@ jobs:
         with:
           feed_list: "https://w3ird.tech/index.xml"
           max_post_count: 5
-          template: "\n- $date: [$title]($url)"
+          template: "$newline- $date: [$title]($url)"
           date_format: "yyyy-MM-dd"
           committer_email: "rob@w3ird.tech"
           committer_username: "w3irdrobot"
