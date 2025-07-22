@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm w3irdrobot</h1>
-<h3 align="center">Software Engineer | Great Smelling Individual</h3>
+<h3 align="center">Software Development and Automation</h3>
 
 ### 🚀 About Me
 
