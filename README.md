@@ -34,11 +34,11 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- 2025-00-03: [capture the bitcoin at tab7: pt 1](https://w3ird.tech/posts/ctb7-pt-1/)
-- 2022-00-29: [deploying a nostr relay](https://w3ird.tech/posts/nostr-relay/)
-- 2022-13-20: [goodbye, proton &lpar;the great migration&rpar;](https://w3ird.tech/posts/goodbye-proton/)
-- 2022-43-12: [Bisq API Rust Project Setup](https://w3ird.tech/posts/bisq-api-setup/)
-- 2019-18-19: [Fun with Concurrency in Golang](https://w3ird.tech/posts/fun-with-concurrency/)<!-- BLOG-POST-LIST:END -->
+- 2025-00-07: [capture the bitcoin at tab7: pt 2](https://w3ird.tech/posts/capture-the-bitcoin-at-tab7-pt-2/)
+- 2025-00-03: [capture the bitcoin at tab7: pt 1](https://w3ird.tech/posts/capture-the-bitcoin-at-tab7-pt-1/)
+- 2022-00-29: [deploying a nostr relay](https://w3ird.tech/posts/deploying-a-nostr-relay/)
+- 2022-13-20: [goodbye, proton &lpar;the great migration&rpar;](https://w3ird.tech/posts/goodbye-proton-the-great-migration/)
+- 2022-43-12: [Bisq API Rust Project Setup](https://w3ird.tech/posts/bisq-api-rust-project-setup/)<!-- BLOG-POST-LIST:END -->
 
 *Read more at [w3ird.tech](https://w3ird.tech)*
 
